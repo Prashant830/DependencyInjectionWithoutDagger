@@ -7,4 +7,4 @@
 ## Logout Console 
 <p>
   <img src="https://user-images.githubusercontent.com/72181295/178458810-5babe3da-0a46-47c9-8fa4-5f3b304616e0.png" width="900" height="450" />
-</p>
+</p
